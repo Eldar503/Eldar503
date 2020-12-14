@@ -1,9 +1,8 @@
-### Hi there 👋
-
-<!--
-**Eldar503/Eldar503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eldar503&layout=compact&hide_border=true)](https://github.com/Eldar503) [<img alt="Eldar503's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Eldar503&show_icons=true&hide_border=true">](https://github.com/Eldar503)
 Here are some ideas to get you started:
+
+
+About me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
